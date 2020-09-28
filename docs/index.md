@@ -1,7 +1,4 @@
-#     Welcome
-## to Tom's Website
-
+#     Welcome to Tom's Website
 
 ## Portfolio/Resume
-[Portfolio].(portfolio.md)
-[Resume].(resume.md)
+[Resume](resume.md)
