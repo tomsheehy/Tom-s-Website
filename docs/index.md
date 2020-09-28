@@ -8,6 +8,7 @@
 ## Other Links
 [High School football highlight tape.](https://www.hudl.com/video/3/6299269/59f1294b5cb2ed29d8b0e06e)
 
+
 ## **Favorite Things**
 Golf
 <img src="Lodestone_GolfCourse.jpg/Lodestone_GolfCourse.jpg" alt="Lodestone Golf Couse in Maryland" width="150"/>
