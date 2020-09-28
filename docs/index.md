@@ -6,4 +6,4 @@
 
 ## **Favorite Things**
 Golf
-<img src="images/" alt="Lodestone Golf Couse in Maryland" width="150"/>
+<img src="images/Lodestone_GolfCourse.jpg" alt="Lodestone Golf Couse in Maryland" width="150"/>
