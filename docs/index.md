@@ -3,5 +3,5 @@
 
 
 ## Portfolio/Resume
-*[Portfolio].(portfolio.md)
-*[Resume].(resume.md)
+[Portfolio].(portfolio.md)
+[Resume].(resume.md)
