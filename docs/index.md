@@ -6,9 +6,9 @@
 * [Interests](interests.md)
 
 ## Other Links
-[High school football highlight tape.](https://www.hudl.com/video/3/6299269/59f1294b5cb2ed29d8b0e06e)
-[My favorite place to eat.](https://www.moes.com/)
-[Where I like to shop.](https://www.truevintage.com/collections/nike)
+* [High school football highlight tape.](https://www.hudl.com/video/3/6299269/59f1294b5cb2ed29d8b0e06e)
+* [My favorite place to eat.](https://www.moes.com/)
+* [Where I like to shop.](https://www.truevintage.com/collections/nike)
 
 
 ## **Favorite Things**
