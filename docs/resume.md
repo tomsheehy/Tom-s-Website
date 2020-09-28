@@ -1,4 +1,4 @@
---------------------------------------------------------------- # Thomas Sheehy - Resume
+# Thomas Sheehy - Resume
 
 ## **Current Address**
 5720 Station Road
