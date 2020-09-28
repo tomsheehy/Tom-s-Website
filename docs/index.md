@@ -5,9 +5,12 @@
 * [Reflection](reflection.md)
 * [Interests](interests.md)
 
+
 ## **Favorite Things**
 Golf
 <img src="Lodestone_GolfCourse.jpg/Lodestone_GolfCourse.jpg" alt="Lodestone Golf Couse in Maryland" width="150"/>
+
+![Steelers](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behindthesteelcurtain.com%2F2020%2F7%2F9%2F21313337%2Fi-see-no-reason-why-the-steelers-cant-be-serious-contenders-in-2020-pittsburgh-ben-roethlisberger&psig=AOvVaw1Lx1aKQ-U5J9FqF50kL3Oo&ust=1601422028018000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMidlo6AjewCFQAAAAAdAAAAABAD)
 
 ### Link to Toms Wordpress
 [https://sites.psu.edu/tomswordpress/]
