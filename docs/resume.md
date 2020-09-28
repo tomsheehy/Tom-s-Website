@@ -9,4 +9,8 @@ Erie PA,16510
 *School of Humanities and Social Sciences*
 Digital Media, Arts, and Technology Major                                                                                     
 
-
+## **Work Experience**
+**Lawn Care Business
+Laborer
+* In Charge of lawn care and maintenance, including cutting the grass, weed removal, mulching, and watering plants, for various, self-acquired customers ranging from neighborhood acquaintances to surrounding local communities
+* Supervised costumers property while away on vacations and trips
