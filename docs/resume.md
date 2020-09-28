@@ -1,5 +1,5 @@
 # Thomas Sheehy - Resume
-
+**724.591.3057 / tjs6551@psu.edu**
 ## **Current Address**
 5720 Station Road
 Erie PA,16510
