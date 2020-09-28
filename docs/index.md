@@ -3,6 +3,7 @@
 ## Navigate my page
 * [Resume](resume.md)
 * [Reflection](reflection.md)
+* [Interests](interests.md)
 
 ## **Favorite Things**
 Golf
