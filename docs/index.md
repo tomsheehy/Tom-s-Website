@@ -1,4 +1,4 @@
-# Welcome to Tom's Website!
+# Welcome to Toms Website!
 
 ## Navigate my page
 * [Resume](resume.md)
@@ -8,3 +8,6 @@
 ## **Favorite Things**
 Golf
 <img src="Lodestone_GolfCourse.jpg/Lodestone_GolfCourse.jpg" alt="Lodestone Golf Couse in Maryland" width="150"/>
+
+### Link to Toms Wordpress
+[https://sites.psu.edu/tomswordpress/]1
