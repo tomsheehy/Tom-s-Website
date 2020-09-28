@@ -10,4 +10,4 @@ Golf
 <img src="Lodestone_GolfCourse.jpg/Lodestone_GolfCourse.jpg" alt="Lodestone Golf Couse in Maryland" width="150"/>
 
 ### Link to Toms Wordpress
-[https://sites.psu.edu/tomswordpress/]1
+[https://sites.psu.edu/tomswordpress/]
