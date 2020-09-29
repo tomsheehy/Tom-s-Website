@@ -1,4 +1,4 @@
 # Website Reflection
 Throughout my short experience of website building, I have come to enjoy the little things that sites like Github and Wordpress have to offer. As a new DIGIT student, I was skeptical about organizing and learning markdown, along with simple code to construct my websites. It did not take long for me to get a grasp of how fun it can actually be. While building my sites from the ground up, I began to realize the freedom inside of Github. Being able to organize and write about anything on your mind. I feel as if I have not come close to discovering a fraction of the Github world. Whether it may be html, markdown or any other coding languages. My outlook on the different methods is how open Github is and how Wordpress works like a template. On Github, it is clear that you start with a blank canvas. Therefore, your website is truly what you make of it. When using Wordpress, evidently you must fill in the blanks. Personally, Github attracts me more, and I'm excited to diver deeper into Github and plan to use it in the future!
 
-[https://tomsheehy.github.io/Tom-s-Website/]
+[https://sites.psu.edu/tomswordpress/]
